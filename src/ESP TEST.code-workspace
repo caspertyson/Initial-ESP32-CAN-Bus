@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../ESP TEST"
+		},
+		{
+			"name": "CAN BUS TESTING",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
